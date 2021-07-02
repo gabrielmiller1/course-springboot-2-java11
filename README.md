@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-* JPA - for database interaction.
+* JPA / Hibernate - for database interaction.
 * Apache Tomcat - (Sprint Tool Suite 4) STS built-in web container.
 * Heroku - to Deploy on web.
 
