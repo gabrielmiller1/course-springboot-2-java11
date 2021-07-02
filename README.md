@@ -2,7 +2,7 @@
 
 ### It's a Back-End application, where I perform Web services of a Ordering System.
 
-## Project's goal:
+## Project's goals:
 
 + Create Spring Boot Java project
 + Implement domain model
